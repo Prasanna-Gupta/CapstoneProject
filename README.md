@@ -75,7 +75,10 @@ main()
     call printSchedule()
 ```
 
-## Sample Test Case
+## Sample Test Case :-
+![Output.txt](https://github.com/Prasanna-Gupta/CapstoneProject/assets/83510737/97a0e1c4-7d1e-4643-89cb-5efd96f85d12)
+![Output.txt](https://github.com/Prasanna-Gupta/CapstoneProject/assets/83510737/3e962440-6963-4f4f-b1dd-59ec23fbd756)
+
 
 ### Data Structures Used
 
